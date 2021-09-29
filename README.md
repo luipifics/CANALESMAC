@@ -41,7 +41,7 @@ http://galaxyload3.xyz:8080/miguelIhikwFlhIu/jMAfvNIew4/29349?play_token=xPX76Dh
 http://galaxyload3.xyz:8080/miguelIhikwFlhIu/jMAfvNIew4/29097?play_token=kxKfIU8eC4&token=HUNZU0AMFw5DAF0OVVNWVlUJUQEABQJTVQsGUQ0LVQwAAwRRAAdTAAcaFRQXFRMHVVVvW1JGDwMIA1tTGRAUSgMTbltXRg8WVAoKFEhDFQtZXRIIB1IGAwkAVlYBB00bFghVEAkKQFgNFBtTHBUEEFpZXG1SAUNYUlZAXltHDVVKQ15cbABQWQBWXRReQ1BAGBpZQUZGD19EXw5IF1AITRQARVcRXltBDVQVFAcOFAxASkkQDEZ4aRMfQAFNRgRXFQheXBFeF0ASGhUUDRI+EFFLREBTBVhUQxFYRgUQTRsLAEltUAtbWgRbTV8LDxJADhoBEBpGWF5fWhYLR20RUAJDC1xGCFlJ
 #EXTINF:-1, main.frresh.art
 http://45.86.190.63:25461/aUWBRYRNsY/sabM3PzZmr/27481
-#EXTINF:-1, TNT SEIES
+#EXTINF:-1, TNT SERIES
 http://main.frresh.art/play/live.php?mac=00:1A:79:4A:AF:09&stream=119370&extension=ts&play_token=ODNjWjg3QXZndTB1MFpkVmJwVmY0UT09
 #EXTINF:-1, SPACE
 http://main.frresh.art/play/live.php?mac=00:1A:79:4A:AF:09&stream=119188&extension=ts&play_token=ZUQvd3dFb1UyUkJQbFAxcU9SM3Nkdz09
@@ -51,3 +51,5 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:4A:AF:09&stream=132058&extensi
 http://main.frresh.art/play/live.php?mac=00:1A:79:4A:AF:09&stream=119074&extension=ts&play_token=ZWhhZUZIK3p6dWpMbjR6ZGF3YVFYdz09
 #EXTINF:-1, STAR ACCION
 http://main.frresh.art/play/live.php?mac=00:1A:79:4A:AF:09&stream=119142&extension=ts&play_token=eHBHUm9KRkoyME1Ua3oxMi9ydEZjdz09
+#EXTINF:-1, TNT SERIES
+http://158.69.62.208:8081/live/TNT_SERIES_HD/chunks.m3u8
