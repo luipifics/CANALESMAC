@@ -165,7 +165,227 @@ http://163.172.47.195:25461/gramounir1pDfXa9SNL/nCO9CGpEj5/43632?play_token=fdiu
 http://163.172.47.195:25461/gramounir1pDfXa9SNL/nCO9CGpEj5/5409?play_token=MHyAM6iI2N&token=TxRbBBJdEwsbAlFUCgYGCAYEBwBQA1YKUgUKV10GUAEGUwNWUwVTU1gTGEdLRhdcV1o9UVERCA0AAgpIGkIVVkZpWgFDDxMCCgEHUw4QSRtCXg9dFwkDDgcGAVEAAFIEGBRDDAUXC19MXVhJGlcdTVNFDFlZbFZdQltQARoNCEZYWh9HDltuVVxcVQtcEF8bBxVOGlxAQhoOEGcLTFYKE2RaUhxBYVRdXFJbCE1cDFpXVAtXW1ZBGGdzEwBdFyVlFhoRBwhBQ1BNVBZfVkcJVRoVAVdAXUZKTRAJRnVvRB8WU0sRBFtCWFZfFl8aRhYbGhULS2pBV0tAQFYFVVIUEQ4UA0dNF1xQQW5XClZcAFpCXg1WRhEIGgUQH0ZVWAhaQFlBOhFcVRMDX0EJVE8=
 #EXTINF:-1, SPACE FHD
 http://163.172.47.195:25461/gramounir1pDfXa9SNL/nCO9CGpEj5/43590?play_token=lkhHMqpGEO&token=TxRbBBJdEwsbB1JWDFNdX1QGW1sDVgoKDVMGUgpVBwsAU1cGWAUJUwATGEdLRhdcV1o9UVERCAwHBwpUFBUTQFFEbAwFFwsTCgIEVg4ERxUUQwtVUBEICQIBB1YOBVYDARoRFQhREwtXRFgJFBAAQUJSEFZUX21cUURaB10VXF1BWl9JQ1pfbl1UWQRWVkcDFAZAFBdaQUgWCBEwV0MHXxRmXwQYFWVUVVRXClVHC1BVVgFRWl1XSxRhckRcUkZwYhQfRwNcRUNYRVFHAlwQVVobQFtaRlxMRksRXhp6PhEYFFYdFVBfQlBeWkcCEBFKFBtAUUZsQF1HRkEBWVoDQRYMEVVDGRNcWElrBldcC1xVQwtXW0AQAhYDEUgaWgldXUJcFz5FWFUbC1oQVF4Y
-#EXTINF:-1, 
+#EXTINF:-1, aplicacion
+#EXTINF:-1,A&E
+http://cdn.boxter.live:8081/cine/A&E4441/playlist.m3u8
+#EXTINF:-1,A3 Series
+http://cdn.boxter.live:8081/cine/A3S7852/playlist.m3u8
+#EXTINF:-1,AMC
+http://cdn.boxter.live:8081/cine/AMC3301/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://cdn.boxter.live:8081/CIENCIA/ANIMAL_PLANET09/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/ANTENA_35549/playlist.m3u8
+#EXTINF:-1,AXN
+http://cdn.boxter.live:8081/cine/AXN0009/playlist.m3u8
+#EXTINF:-1,Az Cinema
+http://cdn.boxter.live:8081/cine/AZ_CINEMA/playlist.m3u8
+#EXTINF:-1,Az Corazon
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/AZ_CORAZON/playlist.m3u8
+#EXTINF:-1,Az Mundo
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/AZ_MUNDO/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://cdn.boxter.live:8081/regional/AZTECA_75543/playlist.m3u8
+#EXTINF:-1,Azteca Uno
+http://cdn.boxter.live:8081/regional/AZTECA_1/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://cdn.boxter.live:8081/INFANTIL/BABY_FIRTS9899/playlist.m3u8
+#EXTINF:-1,Bandamax
+http://cdn.boxter.live:8081/musical/BANDAMAX/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://cdn.boxter.live:8081/INFANTIL/BOOOMERANG9998/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://cdn.boxter.live:8081/24_7/CANAL_5_MX0077/playlist.m3u8
+#EXTINF:-1,CANAL UNO
+http://cdn.boxter.live:8081/regional/CANAL_UNO334/playlist.m3u8
+#EXTINF:-1,Caracol
+http://cdn.boxter.live:8081/regional/CARACOL8787/playlist.m3u8
+#EXTINF:-1,Caracol Internacional
+http://cdn.boxter.live:8081/regional/CARACOL_INTER7824/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://cdn.boxter.live:8081/INFANTIL/CARTOON_NETWORK6565/playlist.m3u8
+#EXTINF:-1,Cine Canal
+http://cdn.boxter.live:8081/cine/CINECANAL31/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://cdn.boxter.live:8081/cine/CINEMAX333/playlist.m3u8
+#EXTINF:-1,CNN Espanol
+http://cdn.boxter.live:8081/noticias/CNN_EN_ESPANOL9845/playlist.m3u8
+#EXTINF:-1,CNN Internacional
+http://cdn.boxter.live:8081/noticias/CNN_INTERNATIONAL78451/playlist.m3u8
+#EXTINF:-1,Comedy Central
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/COMEDY_CENTRAL3325/playlist.m3u8
+#EXTINF:-1,De Pelicula
+http://cdn.boxter.live:8081/cine/DE_PELICULA0000/playlist.m3u8
+#EXTINF:-1,DHE
+http://cdn.boxter.live:8081/cine/dhe1090/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_CHANEL3596/playlist.m3u8
+#EXTINF:-1,Discovery Civilization
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_CIVILIZATION33131/playlist.m3u8
+#EXTINF:-1,Discovery Family
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_FAMILIA0098/playlist.m3u8
+#EXTINF:-1,Discovery Home and Health
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_h&h466/playlist.m3u8
+#EXTINF:-1,Discovery ID
+http://cdn.boxter.live:8081/CIENCIA/ID00007/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://cdn.boxter.live:8081/INFANTIL/DISCOVERY_KIDS7778/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_SCIENCE0039/playlist.m3u8
+#EXTINF:-1,Discovery Theater
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_THEATER0001/playlist.m3u8
+#EXTINF:-1,Discovery TLC
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_TLC0004/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_TURBO3337/playlist.m3u8
+#EXTINF:-1,Discovery World
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_WORLD0003/playlist.m3u8
+#EXTINF:-1,Disney
+http://cdn.boxter.live:8081/INFANTIL/DISNEY_CHANNEL7985/playlist.m3u8
+#EXTINF:-1,Disney JR
+http://cdn.boxter.live:8081/INFANTIL/DISNEY_JR7899/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://cdn.boxter.live:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8
+#EXTINF:-1,Distrito Comedia
+http://cdn.boxter.live:8081/cine/DISTRITO_COMEDIA3399/playlist.m3u8
+#EXTINF:-1,DW
+http://cdn.boxter.live:8081/noticias/DW6946/playlist.m3u8
+#EXTINF:-1,E !
+http://cdn.boxter.live:8081/cine/E_ENTERNTAINMENT3333/playlist.m3u8
+#EXTINF:-1,El Gourmet
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/EL_GOURMET4747/playlist.m3u8
+#EXTINF:-1,Food Network
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/FOOD6595/playlist.m3u8
+#EXTINF:-1,Foro TV
+http://cdn.boxter.live:8081/noticias/FORO_TV/playlist.m3u8
+#EXTINF:-1,Fox
+http://cdn.boxter.live:8081/cine/STAR_CHANNEL377/playlist.m3u8
+#EXTINF:-1,Fox Life
+http://cdn.boxter.live:8081/cine/STAR_LIFE212/playlist.m3u8
+#EXTINF:-1,Fox Premium Action
+http://cdn.boxter.live:8081/cine/STAR_ACTION001/playlist.m3u8
+#EXTINF:-1,Fox Premium Cinema
+http://cdn.boxter.live:8081/cine/STAR_CINEMA3333/playlist.m3u8
+#EXTINF:-1,Fox Premium Classics
+http://cdn.boxter.live:8081/cine/STAR_CLASIC85/playlist.m3u8
+#EXTINF:-1,Fox Premium Comedy
+http://cdn.boxter.live:8081/cine/STAR_COMEDY474/playlist.m3u8
+#EXTINF:-1,Fox Premium Family
+http://cdn.boxter.live:8081/cine/STAR_FUN069/playlist.m3u8
+#EXTINF:-1,Fox Premium Series
+http://cdn.boxter.live:8081/cine/STAR_SERIES396/playlist.m3u8
+#EXTINF:-1,FX
+http://cdn.boxter.live:8081/cine/FX2226/playlist.m3u8
+#EXTINF:-1,Fx Movie
+http://cdn.boxter.live:8081/cine/FX_MOVIES4444/playlist.m3u8
+#EXTINF:-1,Glitz
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/GLITZ0365/playlist.m3u8
+#EXTINF:-1,Gol tv
+http://cdn.boxter.live:8081/DEP/GOL_TV88795456/playlist.m3u8
+#EXTINF:-1,Golden
+http://cdn.boxter.live:8081/cine/GOLDEN6666/playlist.m3u8
+#EXTINF:-1,Golden Edge
+http://cdn.boxter.live:8081/cine/GOLDEN_EDGED0001/playlist.m3u8
+#EXTINF:-1,Golden Premier
+http://cdn.boxter.live:8081/cine/GOLDEN_PREMIERE6656/playlist.m3u8
+#EXTINF:-1,HBO
+http://cdn.boxter.live:8081/cine/HBO35354/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://cdn.boxter.live:8081/cine/HBO_25445631/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://cdn.boxter.live:8081/cine/HBO_FAMILY54564564/playlist.m3u8
+#EXTINF:-1,HBO Mundi
+http://cdn.boxter.live:8081/cine/HBO_MUNDI46534563/playlist.m3u8
+#EXTINF:-1,HBO plus
+http://cdn.boxter.live:8081/cine/HBO_PLUS5345634/playlist.m3u8
+#EXTINF:-1,HBO Pop
+http://cdn.boxter.live:8081/cine/HBO_POP54564/playlist.m3u8
+#EXTINF:-1,HBO Signature
+http://cdn.boxter.live:8081/cine/HBO_SIGNATURE5156313/playlist.m3u8
+#EXTINF:-1,HBO Xtreme
+http://cdn.boxter.live:8081/cine/HBO_XTREME54534/playlist.m3u8
+#EXTINF:-1,HGTV
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/HGTV/playlist.m3u8
+#EXTINF:-1,History 1
+http://cdn.boxter.live:8081/CIENCIA/HISTORY00008/playlist.m3u8
+#EXTINF:-1,History 2
+http://cdn.boxter.live:8081/CIENCIA/HISTORY_20051/playlist.m3u8
+#EXTINF:-1,Hola TV
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/HOLA_TV2245/playlist.m3u8
+#EXTINF:-1,HTV
+http://cdn.boxter.live:8081/musical/HTV5459/playlist.m3u8
+#EXTINF:-1,Las Estrellas
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/LAS_ESTRELLAS8788/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/LIFETIME7778/playlist.m3u8
+#EXTINF:-1,MORBIDO TV
+http://cdn.boxter.live:8081/cine/MORBIDO_TV9999/playlist.m3u8
+#EXTINF:-1,MTV
+http://cdn.boxter.live:8081/musical/MTV5674/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://cdn.boxter.live:8081/musical/MTV_HITS4521/playlist.m3u8
+#EXTINF:-1,Multipremier
+http://cdn.boxter.live:8081/cine/MULTIPREMIER8752/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://cdn.boxter.live:8081/CIENCIA/NATGEO3300/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://cdn.boxter.live:8081/CIENCIA/NATGEO_WILD1235/playlist.m3u8
+#EXTINF:-1,Nick
+http://cdn.boxter.live:8081/INFANTIL/NICK5555/playlist.m3u8
+#EXTINF:-1,Nick Jr
+http://cdn.boxter.live:8081/INFANTIL/NICK_JR7899/playlist.m3u8
+#EXTINF:-1,Paramount Channel
+http://cdn.boxter.live:8081/cine/PARAMOUNT32001/playlist.m3u8
+#EXTINF:-1,Pasiones
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/PASIONES7777/playlist.m3u8
+#EXTINF:-1,RCN
+http://cdn.boxter.live:8081/regional/RCN8742/playlist.m3u8
+#EXTINF:-1,Sony
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/SONY8888/playlist.m3u8
+#EXTINF:-1,Space
+http://cdn.boxter.live:8081/cine/SPACE9797/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://cdn.boxter.live:8081/cine/STUDIO_UNIVERSAL1111/playlist.m3u8
+#EXTINF:-1,SYFY
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/SYFY05/playlist.m3u8
+#EXTINF:-1,Starz Suspense
+http://cdn.boxter.live:8081/PREMIUM/STARZ_SUSPENSE5465/playlist.m3u8
+#EXTINF:-1,Starz Edged
+http://cdn.boxter.live:8081/PREMIUM/STARZ_EDGED564564/playlist.m3u8
+#EXTINF:-1,Starz Family
+http://cdn.boxter.live:8081/PREMIUM/STARZ_ENCORE_FAMILY13541651/playlist.m3u8
+#EXTINF:-1,tarz
+http://cdn.boxter.live:8081/PREMIUM/STARZ534654/playlist.m3u8
+#EXTINF:-1,TBS
+http://cdn.boxter.live:8081/cine/TBS5322/playlist.m3u8
+#EXTINF:-1,TCM
+http://cdn.boxter.live:8081/cine/TCM03/playlist.m3u8
+#EXTINF:-1,Telefe
+http://cdn.boxter.live:8081/regional/TELEFE/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://cdn.boxter.live:8081/regional/TELEMUNDO7845/playlist.m3u8
+#EXTINF:-1,Telemundo Int.
+http://cdn.boxter.live:8081/regional/TELEMUNDO_INT8596/playlist.m3u8
+#EXTINF:-1,TNT
+http://cdn.boxter.live:8081/cine/TNT87956/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://cdn.boxter.live:8081/cine/TNT_SERIES9998/playlist.m3u8
+#EXTINF:-1,Tooncast
+http://cdn.boxter.live:8081/INFANTIL/TOONCAST8798/playlist.m3u8
+#EXTINF:-1,Tru TV
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/TRU_TV7777/playlist.m3u8
+#EXTINF:-1,UNIVERSAL
+http://cdn.boxter.live:8081/cine/UNIVERSAL1111/playlist.m3u8
+#EXTINF:-1,UNIVERSO
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/NBC_UNIVERSO7796/playlist.m3u8
+#EXTINF:-1,Univision
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/UNIVISION8548/playlist.m3u8
+#EXTINF:-1,Univision Novelas
+http://cdn.boxter.live:8081/ENTRETENIMIENTO/UNIVISION_TLNOVELAS6666/playlist.m3u8
+#EXTINF:-1,Venevision
+http://cdn.boxter.live:8081/regional/VENEVISION531435/playlist.m3u8
+#EXTINF:-1,WARNER
+http://cdn.boxter.live:8081/cine/WARNER9787/playlist.m3u8
 
 #EXTINF:-1, 
 
