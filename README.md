@@ -125,6 +125,8 @@ http://45.86.191.88:25461/004530695107438/POHq6d4C5G/140343?
 http://cdn.boxter.live:8081/cine/TNT_SERIES9998/playlist.m3u8
 #EXTINF:-1, SPACE
 http://cdn.boxter.live:8081/cine/SPACE9797/playlist.m3u8
+#EXTINF:-1, SPACE
+http://cdn.boxter.live:8081/cine/SPACE9797/chunks.m3u8?nimblesessionid=4288000
 #EXTINF:-1, STAR_ACTION
 http://cdn.boxter.live:8081/cine/STAR_ACTION001/playlist.m3u8
 #EXTINF:-1, FX
