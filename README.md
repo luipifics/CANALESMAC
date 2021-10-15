@@ -127,6 +127,34 @@ http://cdn.boxter.live:8081/cine/TNT_SERIES9998/playlist.m3u8
 http://cdn.boxter.live:8081/cine/SPACE9797/playlist.m3u8
 #EXTINF:-1, STAR_ACTION
 http://cdn.boxter.live:8081/cine/STAR_ACTION001/playlist.m3u8
+#EXTINF:-1, FX
+http://cdn.boxter.live:8081/cine/FX2226/playlist.m3u8
+#EXTINF:-1, MULTI_PREMIERE
+http://cdn.boxter.live:8081/cine/MULTI_PREMIERE8752/playlist.m3u8
+#EXTINF:-1, DISCOVERY_h&h
+http://cdn.boxter.live:8081/CIENCIA/DISCOVERY_h&h466/playlist.m3u8
+#EXTINF:-1, NATGEO_WILD
+http://cdn.boxter.live:8081/CIENCIA/NATGEO_WILD1235/playlist.m3u8
+#EXTINF:-1,HBO
+http://cdn.boxter.live:8081/cine/HBO_25445631/playlist.m3u8
+#EXTINF:-1,HBO_SIGNATURE
+http://cdn.boxter.live:8081/cine/HBO_SIGNATURE5156313/playlist.m3u8
+#EXTINF:-1,HBO_PLUS 
+http://cdn.boxter.live:8081/cine/HBO_PLUS5345634/playlist.m3u8
+#EXTINF:-1, STAR_SERIES
+http://cdn.boxter.live:8081/cine/STAR_SERIES396/playlist.m3u8
+#EXTINF:-1,STAR_LIFE
+http://cdn.boxter.live:8081/cine/STAR_LIFE212/playlist.m3u8
+#EXTINF:-1,HBO_FAMILY
+http://cdn.boxter.live:8081/cine/HBO_FAMILY54564564/playlist.m3u8
+#EXTINF:-1,TNT
+http://cdn.boxter.live:8081/cine/TNT87956/playlist.m3u8
+#EXTINF:-1,GOLDEN_PREMIERE
+http://cdn.boxter.live:8081/cine/GOLDEN_PREMIERE6656/playlist.m3u8
+#EXTINF:-1,TCM
+http://cdn.boxter.live:8081/cine/TCM03/playlist.m3u8
+#EXTINF:-1, /PARAMOUNT
+http://cdn.boxter.live:8081/cine/PARAMOUNT32001/playlist.m3u8
 #EXTINF:-1, iptvpro.premium-t
 http://45.86.191.88:25461/004530695107438/POHq6d4C5G/140343?
 #EXTINF:-1, TNT SERIES FHD
