@@ -386,7 +386,8 @@ http://cdn.boxter.live:8081/ENTRETENIMIENTO/UNIVISION_TLNOVELAS6666/playlist.m3u
 http://cdn.boxter.live:8081/regional/VENEVISION531435/playlist.m3u8
 #EXTINF:-1,WARNER
 http://cdn.boxter.live:8081/cine/WARNER9787/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Sing   Ven y canta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klOquwqD8LtTvm9pWc1vJH143Zb.jpg" group-title=" P-5 MEGAS",Sing   Ven y canta
+http://odenfull.co:2086/movie/142536/142536/178709.mp4
 #EXTINF:-1, 
 
 #EXTINF:-1, 
