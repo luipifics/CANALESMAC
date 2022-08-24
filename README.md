@@ -140,6 +140,26 @@ http://195.181.171.166:8080/57e7744848e617b38a7b304007c7a75cbc41571ecfaeadd0a41a
 http://195.181.171.166:8080/57e7744848e617b38a7b304007c7a75cbc41571ecfaea3dcbf11d8cc294c33b429f91e6b4424d291dfa1/index.m3u8
 #EXTINF:-1, AXN
 http://195.181.171.166:8080/57e7744848e617b38a7b304007c7a75cbc41571ecfaea3dcbf04ced6/index.m3u8
+#EXTINF:-1, triggertv
+http://195.181.171.166:8080/
+#EXTINF:-1,AXN
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=111014&extension=ts&play_token=QMcn45aU8w
+#EXTINF:-1, CINEMAX
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=111012&extension=ts&play_token=Y4xjcMlGFx
+#EXTINF:-1, SPACE
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=110993&extension=ts&play_token=awkGawMBZe
+#EXTINF:-1, SIMPSON
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=68711&extension=ts&play_token=O8D4jT57tC
+#EXTINF:-1, TNT
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=110990&extension=ts&play_token=EZSEVri90q
+#EXTINF:-1, TNT SERIES
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=111019&extension=ts&play_token=CBQYymdyK9
+#EXTINF:-1, DINOSAURIOS
+http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=68704&extension=ts&play_token=FUTx4Blagw
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
