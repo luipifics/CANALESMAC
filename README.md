@@ -1,4 +1,4 @@
-
+R
 #EXTINF:-1, new.jiotv.be/stalker
 http://45.83.31.3:25461/yUD2VuuNaPwDvyY/PxuHopc8md/101159?
 #EXTINF:-1, CINEMAX
@@ -172,4 +172,5 @@ http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174992&extensi
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174992&extension=ts
 #EXTINF:-1, TNT MÉXICO
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174991&extension=ts
-#EXTINF:-1,
+#EXTINF:-1, TNT SERIES P4
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:7A:3F:3D&stream=111019&extension=ts
