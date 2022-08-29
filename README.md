@@ -156,7 +156,8 @@ http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=110990&exten
 http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=111019&extension=ts&play_token=CBQYymdyK9
 #EXTINF:-1, DINOSAURIOS
 http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=68704&extension=ts&play_token=FUTx4Blagw
-#EXTINF:-1,
+#EXTINF:-1, Simpson
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:7A:3F:3D&stream=68711&extension=ts
 
 #EXTINF:-1,
 
