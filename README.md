@@ -159,14 +159,16 @@ http://triggertv.tv:8080/play/live.php?mac=00:1A:79:F0:1D:2C&stream=68704&extens
 #EXTINF:-1, Simpson
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:7A:3F:3D&stream=68711&extension=ts
 
-#EXTINF:-1,
+#EXTINF:-1, AXN
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174792&extension=ts&play_token=B5j9cszxtc
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1, cinemax
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174501&extension=ts&play_token=c1GvQssX5U
+#EXTINF:-1, TNT 
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174601&extension=ts&play_token=BYFjFA07Kx
+#EXTINF:-1, TNT SERIES
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174992&extension=ts&play_token=aw9bzBlAsV
+#EXTINF:-1, TNT SERIES ARG
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174992&extension=ts&play_token=aw9bzBlAsV
+#EXTINF:-1, TNT MÉXICO
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:01:22:33&stream=174991&extension=ts&play_token=nvAhUDHZRW
